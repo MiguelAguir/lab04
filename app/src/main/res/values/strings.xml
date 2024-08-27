@@ -1,4 +1,7 @@
 <resources>
+    <string name="button_text">Click Me!</string>
     <string name="app_name">lab04</string>
     <string name="click_me">Click Me!</string>
+    <string name="a">Click Me!</string>
+    <string name="wel">Welcome to the Fragment!</string>
 </resources>
